@@ -6,6 +6,7 @@ Esta é uma versão em sketch do projeto feito através do PlatformIO. Para aces
 
 ## Utilizando o Projeto
 
-1. Instale Arduino IDE: https://www.arduino.cc/en/software
-2. Instale a biblioteca do sensor DHT: https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
-3. Faça o upload para a placa.
+1. Instale Arduino IDE: https://www.arduino.cc/en/software;
+2. Clone o projeto;
+3. Instale a biblioteca do sensor DHT se necessária: https://www.arduino.cc/reference/en/libraries/dht-sensor-library/ ;
+4. Faça o upload para a placa.
